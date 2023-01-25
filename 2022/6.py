@@ -2,7 +2,7 @@
 
 
 # Task 1
-w ith open("6.in") as f:
+with open("6.in") as f:
     contents = f.read()
     # contents = "abcabcd"
     for idx in range(3, len(contents)):
